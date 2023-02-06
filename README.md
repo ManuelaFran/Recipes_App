@@ -3,7 +3,7 @@
 ![Captura de tela de 2022-08-31 11-14-17](https://user-images.githubusercontent.com/95245210/216849006-2196b4bf-464d-4b2a-99e6-3e262bc4bf04.png)
 
 ## O que foi desenvolvido
-Neste projeto foi desenvolvido um sistema que permite visualizar, buscar, filtrar, favoritar, compartilhar e acompanhar o processo de preparação de receitas e drinks. Um app de receitas, sendo que o layout teve como foco dispositivos móveis.
+Neste projeto foi desenvolvido um sistema que permite visualizar, buscar, filtrar, favoritar, compartilhar e acompanhar o processo de preparação de receitas e drinks. Um app de receitas. Sendo que o layout teve como foco dispositivos móveis.
 
 ## Habilidades Praticadas no Projeto
   - Utilização do _Redux_ para gerenciar estado
